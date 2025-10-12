@@ -9,9 +9,16 @@
 
 ![Aaditya-ops-cpu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya-ops-cpu&show_icons=true&theme=radical)
 
-## 📈 Contribution Graph
+## 📈 Contribution Graphs
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Aaditya-ops-cpu&theme=react-dark)
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-ops-cpu&theme=github)
+
+### Contribution Chart
+![Contribution Chart](https://ghchart.rshah.org/4169E1/Aaditya-ops-cpu)
+
+### Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaditya-ops-cpu&theme=vue)
 
 ## 💻 Top Languages
 
