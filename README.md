@@ -35,50 +35,22 @@
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
-      <br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="65" height="65" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
-      <br>PHP
-    </td>
-  </tr>
-</table>
-
-### Development Areas
+### Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-000000?style=flat-square&logo=web&logoColor=white" />
-  <img src="https://img.shields.io/badge/App%20Development-430098?style=flat-square&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-85%25-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/HTML5-95%25-E34F26?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-90%25-1572B6?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-85%25-7952B3?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat&logo=php" />
+</p>
+
+### Development Specializations
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Web%20Development-Expert-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱%20App%20Development-Intermediate-4ECDC4?style=for-the-badge" />
 </p>
 
 ## 🏆 GitHub Trophies
