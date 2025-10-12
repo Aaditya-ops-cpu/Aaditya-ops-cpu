@@ -36,18 +36,50 @@
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- **JavaScript** 
-- **Python**
-- **HTML**
-- **React**
-- **TypeScript**
-- **CSS**
-- **BootStrap**
-- **PHP**
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+      <br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+      <br>PHP
+    </td>
+  </tr>
+</table>
 
-### Development
-- **Web Development**
-- **App Development**
+### Development Areas
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-000000?style=flat-square&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Development-430098?style=flat-square&logo=appstore&logoColor=white" />
+</p>
 
 ## 🏆 GitHub Trophies
 
