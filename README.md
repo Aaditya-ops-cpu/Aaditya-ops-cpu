@@ -14,8 +14,9 @@
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-ops-cpu&theme=github)
 
-### Contribution Chart
-![Contribution Chart](https://ghchart.rshah.org/4169E1/Aaditya-ops-cpu)
+## 📈 3D Contribution Graph
+
+[![3D Contribution](https://github-readme-3d-git-profile.vercel.app/profile?username=Aaditya-ops-cpu&theme=dark)](https://github.com/Aaditya-ops-cpu)
 
 ### Summary
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaditya-ops-cpu&theme=vue)
