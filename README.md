@@ -32,11 +32,16 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-ops-cpu&theme=radical)
 
-## 🛠️ Technologies & Tools
-
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat&logo=javascript" />
+  
+</p>
+<h1 align="center">🛠️ Technologies & Tools</h1>
+
+<div align="center">
+
+## Languages & Frameworks
+<img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-85%25-blue?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=flat&logo=typescript" />
@@ -44,11 +49,11 @@
   <img src="https://img.shields.io/badge/CSS3-90%25-1572B6?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/Bootstrap-85%25-7952B3?style=flat&logo=bootstrap" />
   <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat&logo=php" />
-</p>
 
 ## 🗄️ Database Mastery
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## ☁️ Cloud & DevOps
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -62,6 +67,8 @@
 ## 💻 System Programming
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
 
 ### Development Specializations
 <p align="center">
