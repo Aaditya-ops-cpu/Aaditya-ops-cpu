@@ -1,4 +1,16 @@
 ## Hi there 👋
+I'm a developer focused on full-stack web, mobile, and machine learning projects.
+
+## About Me
+Welcome to my profile! I'm Aaditya, a developer driven to create efficient and scalable software. I have a strong interest in developing solutions that leverage the power of **web**, **mobile**, and **AI** technologies.
+
+* Currently, I'm dedicated to advancing my knowledge in **Deep Learning** and **AI-driven features**.
+* I am always refining my problem-solving abilities and my understanding of **Data Science** and **ML algorithms**.
+* I thrive in collaborative environments and am looking for opportunities to join **hackathons** or contribute to **open-source** projects.
+* I welcome conversations regarding innovative ideas, potential collaborations, or opportunities related to development fields, AI/ML, and physics. You can contact me at [karthaaaditya@gmail.com].
+
+
+
 
 # Aaditya-ops-cpu's GitHub Profile
 
