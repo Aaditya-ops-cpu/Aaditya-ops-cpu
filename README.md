@@ -14,7 +14,6 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 
 # Aaditya-ops-cpu's GitHub Profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aadita-ops-cpu&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/Aaditya-ops-cpu?style=social)
 
 ## 📊 GitHub Stats
