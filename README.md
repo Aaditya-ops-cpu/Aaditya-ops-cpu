@@ -25,12 +25,6 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-ops-cpu&theme=github)
 
-### Contribution Chart
-![Contribution Chart](https://ghchart.rshah.org/4169E1/Aaditya-ops-cpu)
-
-### Summary
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaditya-ops-cpu&theme=vue)
-
 ## 💻 Top Languages
 
 ### By Repository
@@ -39,9 +33,6 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 ### By Commit
 ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-ops-cpu&layout=compact&theme=radical&hide=Jupyter%20Notebook,HTML,CSS)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-ops-cpu&theme=radical)
 
 ### Languages & Frameworks
 <p align="center">
