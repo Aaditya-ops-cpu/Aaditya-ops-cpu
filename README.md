@@ -101,4 +101,4 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 </p>
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Aaditya-ops-cpu&theme=radical&no-frame=true&row=1&column=6) , make it show private contributions too
+![trophy](https://github-profile-trophy.vercel.app/?username=Aaditya-ops-cpu&theme=radical&no-frame=true&row=1&column=6)
