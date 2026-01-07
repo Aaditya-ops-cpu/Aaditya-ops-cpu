@@ -21,8 +21,6 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 - **auv-autonomous-missions-practise**  
   ![GitHub Repo stars](https://img.shields.io/github/stars/Aaditya-learning-projects/auv-autonomous-missions-practise?style=social)
 
-  Short description of what the project does.
-
 ## 📊 GitHub Stats
 
 ![Aaditya-ops-cpu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya-ops-cpu&show_icons=true&theme=radical)
