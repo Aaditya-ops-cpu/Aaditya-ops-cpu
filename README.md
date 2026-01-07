@@ -18,7 +18,7 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 
 ## ⭐ Open-Source Recognition
 
-- **Autonomous_UV_practise**  
+- **auv-autonomous-missions-practise**  
   ![GitHub Repo stars](https://img.shields.io/github/stars/Aaditya-learning-projects/auv-autonomous-missions-practise?style=social)
 
   Short description of what the project does.
