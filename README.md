@@ -16,6 +16,13 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 
 ![GitHub Followers](https://img.shields.io/github/followers/Aaditya-ops-cpu?style=social)
 
+## ⭐ Open-Source Recognition
+
+- **Autonomous_UV_practise**  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Aaditya-ops-cpu/?style=social)
+
+  Short description of what the project does.
+
 ## 📊 GitHub Stats
 
 ![Aaditya-ops-cpu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya-ops-cpu&show_icons=true&theme=radical)
