@@ -20,6 +20,7 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 
 - **auv-autonomous-missions-practise**  
   ![GitHub Repo stars](https://img.shields.io/github/stars/Aaditya-learning-projects/auv-autonomous-missions-practise?style=social)
+  Developed as practice for autonomous mission planning within an AUV team.
 
 ## 📊 GitHub Stats
 
