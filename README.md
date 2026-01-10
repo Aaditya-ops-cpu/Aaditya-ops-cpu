@@ -24,6 +24,12 @@ Welcome to my profile! I'm Aaditya, a developer driven to create efficient and s
 
   Developed as practice for autonomous mission planning within an AUV team.
 
+## 🔀 Pull Requests
+
+All merged pull requests (public + private) are reflected automatically in my GitHub activity.
+
+https://github.com/pulls?q=is%3Apr+author%3AAaditya-ops-cpu+is%3Amerged
+
 ## 📊 GitHub Stats
 
 ![Aaditya-ops-cpu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya-ops-cpu&show_icons=true&theme=radical)
